@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@diwash007**
-- 👀 I’m interested in **designing** and **developing
-- 🌱 I’m currently learning **Python
-- 💞️ I’m looking to collaborate on **anything
+- 👀 I’m interested in **designing** and **developing**
+- 🌱 I’m currently learning **Python**
+- 💞️ I’m looking to collaborate on **anything**
 - 📫 How to reach me: [Click here](mailto:diwashdahal75@gmail.com)
 
 <!---
