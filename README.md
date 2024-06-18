@@ -1,5 +1,5 @@
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dahaldiwash2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dahaldiwash2) [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:diwashdahal75@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diwashdahal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dahaldiwash2) [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:diwashdahal75@gmail.com)
 
 #### 💻 Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
